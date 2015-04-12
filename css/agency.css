@@ -256,6 +256,11 @@ fieldset[disabled] .btn-xl.active {
     color: #fed136;
 }
 
+.navbar-default .nav li a:focus{
+    outline:0;
+    color: #fff;
+}
+
 .navbar-default .navbar-nav>.active>a {
     border-radius: 0;
     color: #fff; /*colour of the text normally in navbar*/
