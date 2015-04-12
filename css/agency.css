@@ -263,13 +263,13 @@ fieldset[disabled] .btn-xl.active {
 
 .navbar-default .navbar-nav>.active>a {
     border-radius: 0;
-    color: #fff; /*colour of the text normally in navbar*/
+    color: #fed136; /*colour of the text normally in navbar when active item*/
     background-color: #43216A; /*color of active item*/
 }
 
 .navbar-default .navbar-nav>.active>a:hover,
 .navbar-default .navbar-nav>.active>a:focus {
-    color: #fff;
+    color: #fed136;
     background-color: #43216A; /*box focused*/
 }
 
